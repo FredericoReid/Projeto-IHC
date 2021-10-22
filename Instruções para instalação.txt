@@ -1,0 +1,11 @@
+Baixar um servidor apache em sua maquina
+
+depositar o projeto na pasta "www" do servidor apache
+
+baixar o Nodejs em sua máquina pelo site: https://nodejs.org/en/download/
+
+executar o comando 1.bat
+
+executar o comando 2.bat
+
+executar o comando 3.bat
