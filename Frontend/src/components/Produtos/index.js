@@ -31,8 +31,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Cadeira de Rodas</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 1.389,00</p>
+                            <p class="preco_final">R$ 800,00</p>
                         </div>
                     </div>
                 </div>
@@ -43,8 +43,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Bengala</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 300,00</p>
+                            <p class="preco_final">R$ 150,00</p>
                         </div>
                     </div>
                 </div>
@@ -55,8 +55,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Aparelho auditivo</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 2.000,00</p>
+                            <p class="preco_final">R$ 1.019,00</p>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Andador</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 200,00</p>
+                            <p class="preco_final">R$ 150,00</p>
                         </div>
                     </div>
                 </div>
@@ -79,8 +79,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Bengala para cego</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 150,00</p>
+                            <p class="preco_final">R$ 80,00</p>
                         </div>
                     </div>
                 </div>
@@ -91,8 +91,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Cinta ergonomica</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 500,00</p>
+                            <p class="preco_final">R$ 370,80</p>
                         </div>
                     </div>
                 </div>
@@ -103,8 +103,8 @@ function Produtos(){
                         <img src="./imagens/logo.jpg" alt="Logo" width="120" height="120" onMouseOver={destaque} onMouseOut={redimensiona}/>
                         <p>Pegador</p>
                         <div>
-                            <p class="preco_ant">R$ 6.389,00</p>
-                            <p class="preco_final">R$ 5.019,00</p>
+                            <p class="preco_ant">R$ 20,00</p>
+                            <p class="preco_final">R$ 10,00</p>
                         </div>
                     </div>
                 </div>
